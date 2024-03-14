@@ -1,0 +1,26 @@
+{
+    "en": {
+        "welcomeMessage": "Welcome !",
+        "normalMessage": "Welcome to our SVPCET College Nagpur.",
+        "greetingMessage":"Enjoy the Evergreen campus of the college!",
+        "endMessage":"Thank You For Visiting.",
+        "usersStatmessage":"<studentcount> students are learning in the college."
+    },
+
+    "mr": {
+        "welcomeMessage": "स्वागत आहे !",
+        "normalMessage": "आमच्या SVPCET कॉलेज नागपूर मध्ये आपले स्वागत आहे.",
+        "greetingMessage":"कॉलेजच्या एव्हरग्रीन कॅम्पसचा आनंद घ्या !",
+        "endMessage":"भेट दिल्याबद्दल धन्यवाद.",
+        "usersStatmessage":"महाविद्यालयात <studentcount> विद्यार्थी शिकत आहेत."
+    },
+
+    "hi": {
+        "welcomeMessage":"स्वागत है !",
+        "normalMessage":"हमारे SVPCET कॉलेज नागपुर में आपका स्वागत है।",
+        "greetingMessage":" कॉलेज के सदाबहार परिसर का आनंद लें!",
+        "endMessage":"आने के लिए धन्यवाद।",
+        "usersStatmessage":"कॉलेज में <studentcount> छात्र पढ़ाई कर रहे हैं।"
+
+    }
+}
